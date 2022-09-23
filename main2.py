@@ -12,4 +12,6 @@ def folder_creation(folder_name: str):
 
     return response.status_code
 
+if __name__ == '__main2__':
+    folder_creation()
 
